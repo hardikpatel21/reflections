@@ -12,8 +12,10 @@ by pushing adding files specific to the same commit at a time in the staging are
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branch will help you in some situations like working on some experimental features on the project which you are not sure aboutand you ar enot sure that the feature you are working on should be on the main project or not. Branches would creat another working directory for your testing seperate from your main branch so it will keep main branch and created branch work histoory seperat util they got merged 
 
 How do the diagrams help you visualize the branch structure?
+Diagram helps to see which commits have been made on which branch and it will also help to see if any commit is not reachable form any branches and keep track of the project easily.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
